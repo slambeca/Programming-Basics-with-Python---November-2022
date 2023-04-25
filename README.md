@@ -18,6 +18,6 @@ Software University.
 * Working with loops (for)
 * Working with complex loops (nested for and while loops)
 
-# Certificate
+# Certificate and Course curriculum
 
 ![Programming Basics - November 2022 - Certificate](https://user-images.githubusercontent.com/95913250/234264485-b529ce89-c92a-48f2-bf71-6884ee2596c1.jpeg)
